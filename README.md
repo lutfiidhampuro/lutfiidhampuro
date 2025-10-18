@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 I'm student at Vocational High School 26 Jakarta<br>⚡ I'm always interested in new things<br>📌 I'm Backend Engineer (soon)
+🏫 I'm student at Vocational High School 26 Jakarta<br>⚡ I'm always interested in new things<br>📌 I'm Software enthusiast
 
 
 ## 🌐 Socials:
